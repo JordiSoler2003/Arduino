@@ -1,7 +1,7 @@
 
 /******************************************************************************
 **                                                                           **
-**                              Morse  Jorg                                      **
+**                              Morse                                        **
 **                                                                           **
 **                                                                           **
 ******************************************************************************/
@@ -22,38 +22,7 @@ void setup()
 //****** Loop *****************************************************************
 void loop()
 {
-  //J   
-  punt();
-  ratlla();
-  ratlla();
-  ratlla();
-  //Espai entre lletres
-  espaiL();
-  //O
-  ratlla();
-  ratlla();
-  ratlla();
-  //Espai entre lletres
-  espaiL();
-  //R
-  punt();
-  ratlla();
-  punt();
-  //Espai entre lletres
-  espaiL();
-  //D
-  ratlla();
-  punt();
-  punt();
-  //Espai entre lletres
-  espaiL();
-   //I
-  punt();
-  punt();
-  //Espai entre paraules
-  espaiP();
-  
-  //S   
+  //S   ** Exemple SOS **
   punt();
   punt();
   punt();
@@ -65,59 +34,12 @@ void loop()
   ratlla();
   //Espai entre lletres
   espaiL();
-  //L
-  punt();
-  ratlla();
+  //S
   punt();
   punt();
-  //Espai entre lletres
-  espaiL();
-  //E
-  punt();
-  //Espai entre lletres
-  espaiL();
-  //R
-  punt();
-  ratlla();
   punt();
   //Espai entre paraules
   espaiP();
-  
-  //G   
-  ratlla();
-  ratlla();
-  punt();
-  //Espai entre lletres
-  espaiL();
-  //A
-  punt();
-  ratlla();
-  //Espai entre lletres
-  espaiL();
-  //R
-  punt();
-  ratlla();
-  punt();
-  //Espai entre lletres
-  espaiL();
-  //C
-  ratlla();
-  punt();
-  ratlla();
-  punt();
-  //Espai entre lletres
-  espaiL();
-  //I
-  punt();
-  punt();
-  //Espai entre lletres
-  espaiL();
-  //A
-  punt();
-  ratlla();
-  //Espai entre paraules
-  espaiP();
-  
 }
 
 //****** Funcions *************************************************************
